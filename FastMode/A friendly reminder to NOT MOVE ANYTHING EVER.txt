@@ -1,0 +1,1 @@
+seriously, don't, unless you feel the urge to rewrite half of FastMode's code.
