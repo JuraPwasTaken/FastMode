@@ -1,3 +1,4 @@
 v1.0: released
 v2.0: "redesigned" UI, capable of saving to a file, code finally commented
 v2.0.1: Several performance optimizations, useless lines of code cut (over 20 lines! Wow, I'm a bad developer lol), main code's a bit more simple
+v2.0.1.1: slight tweak to the password saving part of the code, line breaks now more "reliable"
