@@ -1,5 +1,5 @@
 #FastMode
-version="2.0.1"
+version="2.0.1.1"
 #Created by Jura Perić
 
 #modules
@@ -52,5 +52,5 @@ while True:
         
     #saves the password in the password list document
     f=open("A list of all your passwords.txt", "a")
-    f.write("{}: {}\n".format(passwordName, "".join(generatedPassword)))
+    f.write("\n{}: {}".format(passwordName, "".join(generatedPassword)))
     f.close()
