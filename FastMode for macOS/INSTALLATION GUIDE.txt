@@ -5,6 +5,5 @@ BONUS STEP: If you haven't already, download IDLE to run this program.
 	It was an option on Windows, but it's a requirement on macOS.
 	Reason: macOS file directories suck.
 2. Place it where you want. Literally, anywhere you want.
-3. Spotlight search the FastModeMacOS.py file or open it manually
-4. Run the program, save a password and read it to check if everything works (if it works, it should make a passlist.txt file and save a password in it)
-5. Enjoy FastMode!
+3. Spotlight search the FastModeMacOS.py file or open it manually, run the program, save a password and read it to check if everything works (if it works, it should make a passlist.txt file and save a password in it)
+4. Enjoy FastMode!
