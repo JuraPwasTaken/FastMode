@@ -33,7 +33,7 @@ while True:
     userInput=input('\nEnter "R" to read your passwords or "W" to make a new one: ')
 
     #Write
-    if userInput.find("W")>=0:
+    if userInput.find("W")>=0 or userInput.find("w")>=0:
         userInput=input("Enter a name for your password: ")
         passwordName=userInput
         print("Generating a password... please wait...")
