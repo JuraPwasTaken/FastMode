@@ -71,7 +71,7 @@ while True:
 
 
     #Read
-    if userInput.find("R")>=0 or userInput.find("r")>=0:
+    elif userInput.find("R")>=0 or userInput.find("r")>=0:
         print("Checking your password file. Please wait...")
         f=open("passlist.txt", "r")
         print(f.read())
