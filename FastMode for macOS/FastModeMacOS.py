@@ -1,5 +1,5 @@
 #FastMode for macOS
-version="2.1"
+version="2.1.1"
 #Created by Jura Perić
 
 #modules
