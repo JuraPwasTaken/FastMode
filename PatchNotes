@@ -5,3 +5,4 @@ v2.0.1.1: slight tweak to the password saving part of the code, line breaks now 
 v2.0.2: fixed a bug where a password would generate on top of another password if userInput received neither Y or N
 v2.1: slight tweak to UI, read functionality added, platform-specific versions created
 v2.1.1: fixed a bug where after making a password FastMode would list all passwords
+v2.2: added a "cancel" feature when making passwords
