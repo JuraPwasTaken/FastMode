@@ -6,3 +6,8 @@ v2.0.2: fixed a bug where a password would generate on top of another password i
 v2.1: slight tweak to UI, read functionality added, platform-specific versions created
 v2.1.1: fixed a bug where after making a password FastMode would list all passwords
 v2.2: added a "cancel" feature when making passwords
+v3.0: Completely rewritten code and is now easier to modify, passwords are now encoded to make stealing passwords directly from the passlist file harder*, added an installer to
+      make setting up easier and faster**
+      *FastMode 3.0 is completely incompatible with older unprotected passwords and you will have to encode them yourself if you want to have them work
+      **FastMode 3.0 is incompatible with macOS and Linux due to their different file directory structures, both the installer and the program itself will refuse to boot
+      on macOS and Linux
