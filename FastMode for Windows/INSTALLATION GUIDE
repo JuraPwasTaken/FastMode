@@ -1,8 +1,0 @@
-INSTALLATION GUIDE
-
-1. Download the FastMode for Windows folder (duh)
-BONUS STEP: If you already haven't, download a Python text editor, IDLE recommended in this case
-2. Take out the FastModeWindows.py file out (or leave it in, it won't affect performance)
-3. Go to the C drive and make a folder called "FastMode"
-4. Run the FastModeWindows.py program, save a password and read it to check if everything works (if it works, it should make a passlist.txt file and save a password in it)
-5. Enjoy FastMode!
