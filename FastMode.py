@@ -13,7 +13,6 @@ allCharacters=["q","w","e","r","t","y","u","i","o","a","s","d","f","g","h","j","
 finalPassword=""
 charStore=[]
 passSatisfaction=False
-#version="{}-sys:{}".format(version, sys.platform)
 passFileName="passlist"
 
 #Definitions
